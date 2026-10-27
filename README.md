@@ -4,7 +4,6 @@ Deploys the same database type Lab 4 used (SQL) on AWS RDS and connects it to th
 Lab 4 EC2 application (Matomo), per the brief's Case A requirements.
 
 - **EC2 app URL**: http://15.252.100.78/
-- **AWS account**: calista-labs (386347568553), region ap-south-1 (Mumbai)
 - **EC2 instance**: `matomo-lab4` (`i-077933894a1f47c75`)
 - **RDS instance**: `matomo-rds`, engine **MariaDB 11.8.8**, `db.t3.micro`, single-AZ, 20 GiB gp3
 - **RDS endpoint**: `matomo-rds.chu4e4kcinv9.ap-south-1.rds.amazonaws.com:3306`
